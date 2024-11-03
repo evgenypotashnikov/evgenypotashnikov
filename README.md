@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github.com/evgenypotashnikov/evgenypotashnikov/blob/main/assets/1784-thunder-pfpsgg.gif" alt="Header" style="width: 1000px; height: 400;">
+  <img src="https://github.com/evgenypotashnikov/evgenypotashnikov/blob/main/assets/1784-thunder-pfpsgg.gif" alt="Header" style="width: 1000px; height: avto;">
 </div>
 
 
