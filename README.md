@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://github.com/evgenypotashnikov/evgenypotashnikov/blob/main/assets/7346-test-pfpsgg.gif" alt="Header">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github.com/evgenypotashnikov/evgenypotashnikov/blob/main/assets/7346-test-pfpsgg.gif" alt="Header" style="width: 100px; height: auto;">
 </div>
+
 
 ## I am a software engineer specializing in backend development
 
