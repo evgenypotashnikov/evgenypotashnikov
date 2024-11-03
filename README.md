@@ -1,6 +1,7 @@
 <div align="center">
-  ![Header](https://github.com/evgenypotashnikov/evgenypotashnikov/blob/main/assets/7346-test-pfpsgg.gif)
+  <img src="https://github.com/evgenypotashnikov/evgenypotashnikov/blob/main/assets/7346-test-pfpsgg.gif" alt="Header">
 </div>
+
 
 About me
 
