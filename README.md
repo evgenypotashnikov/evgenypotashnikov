@@ -2,7 +2,7 @@
   <img src="https://github.com/evgenypotashnikov/evgenypotashnikov/blob/main/assets/7346-test-pfpsgg.gif" alt="Header">
 </div>
 
-## I am a software engineer specializing in Python and Django backend development
+## I am a software engineer specializing in backend development
 
 
 ### Languages and Tools
