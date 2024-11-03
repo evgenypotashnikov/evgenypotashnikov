@@ -3,7 +3,7 @@
 </div>
 
 
-<span style="color: #3b7dc0;">I am a software engineer specializing in backend development</span>
+### I am a software engineer specializing in backend development
 
 
 
